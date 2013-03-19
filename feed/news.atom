@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+        <title>Simon Wells :: News</title>
+        <subtitle>Falling outside the normal moral constraints</subtitle>
+        <link href="http://www.simonwells.org/feed/" rel="self" />
+        <link href="http://www.simonwells.org/" />
+        <id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+        <updated>2012-03-19T18:30:02Z</updated>
+ 
+ 
+        <entry>
+                <title>Paper: A Domain Specific Language for Describing Diverse Systems of Dialogue</title>
+                <link href="http://example.org/2003/12/13/atom03" />
+                <link rel="alternate" type="text/html" href="http://example.org/2003/12/13/atom03.html"/>
+                <link rel="edit" href="http://example.org/2003/12/13/atom03/edit"/>
+                <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                <updated>2012-10-12T18:30:02Z</updated>
+                <summary>Some text.</summary>
+                <author>
+                      <name>Simon Wells</name>
+                      <email>si@simonwells.org.com</email>
+                </author>
+        </entry>
+        
+        <entry>
+                <title>Deliverable: SUPERHUB D6.1 - Multi-Access Platform Front-End</title>
+                <link href="http://example.org/2003/12/13/atom03" />
+                <link rel="alternate" type="text/html" href="http://example.org/2003/12/13/atom03.html"/>
+                <link rel="edit" href="http://example.org/2003/12/13/atom03/edit"/>
+                <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                <updated>2012-10-10T18:30:02Z</updated>
+                <summary>Some text.</summary>
+                <author>
+                      <name>Simon Wells</name>
+                      <email>si@simonwells.org.com</email>
+                </author>
+        </entry>
+
+        <entry>
+                <title>Paper: SUPERHUB: Integrating behaviour change theories into a sustainable urban-mobility platform</title>
+                <link href="http://example.org/2003/12/13/atom03" />
+                <link rel="alternate" type="text/html" href="http://example.org/2003/12/13/atom03.html"/>
+                <link rel="edit" href="http://example.org/2003/12/13/atom03/edit"/>
+                <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                <updated>2012-09-12T18:30:02Z</updated>
+                <summary>Some text.</summary>
+                <author>
+                      <name>Simon Wells</name>
+                      <email>si@simonwells.org.com</email>
+                </author>
+        </entry>
+        
+        <entry>
+                <title>Visualising Timelines of Research in Argumentation Theory</title>
+                <link href="http://example.org/2003/12/13/atom03" />
+                <link rel="alternate" type="text/html" href="http://example.org/2003/12/13/atom03.html"/>
+                <link rel="edit" href="http://example.org/2003/12/13/atom03/edit"/>
+                <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                <updated>2012-09-04T18:30:02Z</updated>
+                <summary>Some text.</summary>
+                <author>
+                      <name>Simon Wells</name>
+                      <email>si@simonwells.org.com</email>
+                </author>
+        </entry>
+        
+        <entry>
+                <title>New Job: Research Fellow on the EU SUPERHUB Project</title>
+                <link href="http://example.org/2003/12/13/atom03" />
+                <link rel="alternate" type="text/html" href="http://example.org/2003/12/13/atom03.html"/>
+                <link rel="edit" href="http://example.org/2003/12/13/atom03/edit"/>
+                <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                <updated>2012-08-21T18:30:02Z</updated>
+                <summary>Some text.</summary>
+                <author>
+                      <name>Simon Wells</name>
+                      <email>si@simonwells.org.com</email>
+                </author>
+        </entry>
+</feed>

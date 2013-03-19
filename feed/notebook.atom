@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+        <title>Simon Wells :: News</title>
+        <subtitle>Falling outside the normal moral constraints</subtitle>
+        <link href="http://www.simonwells.org/feed/" rel="self" />
+        <link href="http://www.simonwells.org/" />
+        <id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+        <updated>2012-03-19T18:30:02Z</updated>
+ 
+ 
+        <entry>
+                <title>Something I am working on...</title>
+                <link href="http://example.org/2003/12/13/atom03" />
+                <link rel="alternate" type="text/html" href="http://example.org/2003/12/13/atom03.html"/>
+                <link rel="edit" href="http://example.org/2003/12/13/atom03/edit"/>
+                <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+                <updated>2012-10-12T18:30:02Z</updated>
+                <summary>Some text.</summary>
+                <author>
+                      <name>Simon Wells</name>
+                      <email>si@simonwells.org.com</email>
+                </author>
+        </entry>
+
+</feed>
